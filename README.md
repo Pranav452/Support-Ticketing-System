@@ -1,4 +1,4 @@
-![Smart Customer Support Ticketing System](/public/image.png.png)
+![Smart Customer Support Ticketing System](/public/image.png)
 
 # Smart Customer Support Ticketing System
 
