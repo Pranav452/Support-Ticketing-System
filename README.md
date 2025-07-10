@@ -1,3 +1,5 @@
+![Smart Customer Support Ticketing System](public/image.png.png)
+
 # Smart Customer Support Ticketing System
 
 An intelligent customer support system that automatically categorizes incoming tickets and generates smart responses using RAG (Retrieval Augmented Generation) architecture.
